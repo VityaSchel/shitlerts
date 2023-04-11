@@ -1,0 +1,16 @@
+{
+  "name": "shitlirts_bot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "vityaschel <hi@hloth.dev> (https://hloth.dev/)",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-fetch": "^3.2.10"
+  }
+}
